@@ -1,0 +1,73 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "jahir",
+      "phno": "98758694"
+    },
+    {
+      "id": 2,
+      "name": "sangita",
+      "phno": "98758694"
+    },
+    {
+      "id": 3,
+      "name": "dipraj",
+      "phno": "98758694"
+    },
+    {
+      "id": 4,
+      "name": "tiyasa",
+      "phno": "98758694"
+    },
+    {
+      "id": 5,
+      "name": "wasif",
+      "phno": "98758694"
+    },
+    {
+      "id": 7,
+      "name": "Koqu",
+      "phno": "98758090"
+    },
+    {
+      "id": 8,
+      "name": "Chayan Jana",
+      "Gender": "M"
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 16,
+      "name": "google",
+      "phone": 12834
+    },
+    {
+      "id": 20,
+      "name": "google",
+      "phone": 12834
+    },
+    {
+      "id": 17,
+      "name": "google",
+      "phone": 12834
+    },
+    {
+      "id": 12,
+      "name": "Falak",
+      "Phone": 874663738
+    },
+    {
+      "id": 100,
+      "name": "Subham",
+      "phone": 84738
+    }
+  ]
+}
