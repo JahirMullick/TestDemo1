@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Tapestry&family=Water+Brush&display=swap');
+
 *{
     margin: 2;
     padding: 2;
@@ -5,20 +7,25 @@
 }
 
 .iconBut{
-    margin: 0 0 0 0;
-    position: relative;
+    margin: 0px 0px 0px 10px;
+    position: absolute;
     /* justify-content: left; */
     /* margin-left: 15px; */
 }
 
 .headerName{
-    margin-left: 1;
+    margin-top: 2px;
+    margin-left: 55px;
     align-items: left;
+    font-family: 'Babylonica', cursive;
+font-family: 'Tapestry', cursive;
 }
-/*.body_con{
-    display: flex;
-    margin: 7px solid green;
+
+.img{
+    height: 30px;
+    width: 30px;
 }
+
 
 /*button div design*/
 .buttons_area{
@@ -37,12 +44,16 @@
 
 /*input output div design*/
 .input_output_area{
-    float: right;
+    /* float: right; */
+    /* float: center; */
+    
     width: 50%;
     height: 100%;
 }
 /*input div design*/
 .input_area{
+    font-family: 'Babylonica', cursive;
+    font-family: 'Water Brush', cursive;
     background-color: 
     #A0E7E5;
     width: 100%;
@@ -50,21 +61,20 @@
     text-align: center;
 }
 
-/*input box design*/
-/*.input_box{
-    text-align: center;
+.inputl{
+    margin-top: 5px;
+    margin-bottom: 10px;
 }
 
-/*output div design*/
+.form-input-field{
+    width: 200px;
+}
 .output_area{
+    font-family: 'Babylonica', cursive;
+    font-family: 'Water Brush', cursive;
     background-color: 
     #A0E7E5;
     width: 100%;
     height: 50vh;
-    text-align: center;
-}
-
-/*output box design*/
-/*.output_area{
     text-align: center;
 }

@@ -13,7 +13,7 @@
     
     <link rel="stylesheet" href="/css/style.css">
     <script src="/js/request.js"></script>
-    <title>Truck Management</title>
+    <title>Warehouse Management</title>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
         <nav class="navbar navbar-light bg-light">
             <div class="iconBut">
                 <a class="navbar-icon" href="#">
-                    <img src="/resources/iconmonstr-school-18-240.png" alt="" width="30" height="24">
+                    <img class="img" src="/resources/icon.png" alt="" width="30" height="24">
                     <!-- <img src="truck_icon.ico" alt="" width="30" height="24"> -->
                 </a>
             </div>
@@ -40,10 +40,13 @@
             <button onClick="Delete_Request()" type="button" class="btn btn-outline-danger">Delete</button>
         </div>
             <div class="input_area">
-                <label class="inputl">Id:</label>
-                <input id = "giveid" type="text" class="inputl" placeholder="Position.."><br>
-                <label class="inputl">Input:</label>
-                <textarea id="com" class="form-input-field" rows="4"></textarea>
+                <div  class="inputl">
+                    <label class="inputl">Id:</label><br>
+                <input id = "giveid" type="text" placeholder="Id Position..">
+                </div>
+
+                <label class="inputl">Input:</label> <br>
+                <textarea id="com" class="form-input-field" rows="4" placeholder="Input Here..."></textarea>
             </div>
             
         <div class="output_area">
